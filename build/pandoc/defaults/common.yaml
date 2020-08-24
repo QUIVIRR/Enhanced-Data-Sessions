@@ -8,6 +8,7 @@ filters:
 - pandoc-manubot-cite
 - pandoc-citeproc
 wrap: preserve
+number-sections: true
 metadata:
-  csl: build/assets/style.csl
+  csl: https://www.zotero.org/styles/chicago-author-date
   link-citations: true

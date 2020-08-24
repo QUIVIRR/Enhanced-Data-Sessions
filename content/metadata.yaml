@@ -1,26 +1,21 @@
 ---
-title: "Manuscript Title"
+title: "New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’"
 keywords:
-  - markdown
-  - publishing
-  - manubot
-lang: en-US
+  - data session
+  - ethnomethodological conversation analysis
+  - audio-visual technology
+  - qualitative research
+  - digital humanities
+  - immersive qualitative analytics
+  - virtual reality
+lang: en-GB
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: skandilocks
+    name: Paul McIlvenny
+    initials: PBM
+    orcid: 0000-0003-2327-2124
+    email: paul@hum.aau.dk
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Culture & Learning, Aalborg University
+      - Centre for Discourses in Transition (C-DiT)
+      - Video Research Lab (VILA)

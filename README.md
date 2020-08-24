@@ -4,16 +4,15 @@
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/rootstock/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/rootstock/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/manubot/rootstock/workflows/Manubot/badge.svg)](https://github.com/manubot/rootstock/actions)
-[![Travis Build Status](https://travis-ci.com/manubot/rootstock.svg?branch=master)](https://travis-ci.com/manubot/rootstock)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This repository contains all versions and changes made to the complete text of a private working version of an article by Paul McIlvenny.
+
+A first draft of the article was written in October 2019. A second draft was prepared privately in July 2020 using Manubot and a GitHub repository, Pandoc, GitKraken, VScode and other open source software. The final draft using Manubot and a GitHub repository was made public on @QUIVIRR, a preprint PDF was uploaded to SocArXiv, and the article was published on QUIVIRR OJS in HTML and PDF formats.
 
 ## Manubot
 
@@ -96,11 +95,12 @@ We encourage users to openly license their manuscripts, which is the default as 
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License%20All-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 [![License: CC0 1.0](https://img.shields.io/badge/License%20Parts-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License%20Parts-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Except when noted otherwise, the entirety of this repository is licensed under a CC BY 4.0 License ([`LICENSE.md`](LICENSE.md)), which allows reuse with attribution.
 Please attribute by linking to https://github.com/manubot/rootstock.
 
-Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 public domain dedication ([`LICENSE-CC0.md`](LICENSE-CC0.md)).
+Since CC BY is not ideal for code and data, certain repository components are also released under the CC0 1.0 ([`LICENSE CC0`](LICENSE-CC0.md)) and the CC BY 4.0 ([`LICENCE CC BY-NC-SA 4.0`](LICENSE-CC-BY-NC-SA-4.0.md)) public domain dedication.
 All files matched by the following glob patterns are dual licensed under CC BY 4.0 and CC0 1.0:
 
 + `*.sh`
@@ -111,11 +111,10 @@ All files matched by the following glob patterns are dual licensed under CC BY 4
 + `*.tsv`
 + `.gitignore`
 
-All other files are only available under CC BY 4.0, including:
+All other files are only available under [`LICENSE CC BY-NC-SA 4.0`](LICENSE-CC-BY-NC-SA-4.0.md), including:
 
 + `*.md`
 + `*.html`
 + `*.pdf`
 + `*.docx`
 
-Please open [an issue](https://github.com/manubot/rootstock/issues) for any question related to licensing.
