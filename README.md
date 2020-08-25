@@ -1,18 +1,28 @@
-# Automated scholarly manuscripts on GitHub
+# Automated scholarly manuscript on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://manubot.github.io/rootstock/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://manubot.github.io/rootstock/manuscript.pdf)
+[![HTML Article](https://img.shields.io/badge/article-HTML-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/)
+[![PDF article](https://img.shields.io/badge/article-PDF-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/manuscript.pdf)
+[![DOI](https://img.shields.io/badge/DOI-NNN-blue.svg)](https://)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/QUIVIRR/Enhanced-Data-Sessions)
+![GitHub Release Date](https://img.shields.io/github/release-date/QUIVIRR/Enhanced-Data-Sessions)
+![GitHub repo size](https://img.shields.io/github/repo-size/QUIVIRR/Enhanced-Data-Sessions)
+![GitHub last commit](https://img.shields.io/github/last-commit/QUIVIRR/Enhanced-Data-Sessions)
+![GitHub issues](https://img.shields.io/github/issues/QUIVIRR/Enhanced-Data-Sessions)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/QUIVIRR/Enhanced-Data-Sessions)
+
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
 ## Manuscript description
 
 <!-- usage note: edit this section. -->
 
-This repository contains all versions and changes made to the complete text of a private working version of an article by Paul McIlvenny.
+This repository contains all versions and revisions made to the complete text of an article by Paul McIlvenny.
 
-A first draft of the article was written in October 2019. A second draft was prepared privately in July 2020 using Manubot and a GitHub repository, Pandoc, GitKraken, VScode and other open source software. The final draft using Manubot and a GitHub repository was made public on @QUIVIRR, a preprint PDF was uploaded to SocArXiv, and the article was published on QUIVIRR OJS in HTML and PDF formats.
+A first draft of the article was written in October 2019. A second draft was prepared in July and August 2020 using Manubot and a private GitHub repository, as well as Pandoc, GitKraken, VScode and other open source software. The final draft using Manubot and a GitHub repository was made public on @QUIVIRR, and a preprint PDF was uploaded to SocArXiv. Some of the figures are archived on FigShare and the video link is archived on Zenodo.
+
+<!--  and the article was published on QUIVIRR OJS in HTML and PDF formats. -->
 
 ## Manubot
 
