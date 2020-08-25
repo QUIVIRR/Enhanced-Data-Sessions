@@ -1,22 +1,362 @@
 [
-{
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
-  "issued": {
-    "date-parts": [
-      [
-        2019
+  {
+    "id": "Nordicom2017",
+    "type": "article-journal",
+    "URL": "https://www.nordicom.gu.se/sites/default/files/kapitel-pdf/mcilvenny_davidsen.pdf",
+    "title": "A Big Video Manifesto: Re-sensing Video and Audio",
+    "container-title": "Nordicom Information",
+    "page": "15-21",
+    "volume": "39",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
       ]
+    },
+    "author": [
+      {
+        "given": "Paul",
+        "family": "McIlvenny"
+      },
+      {
+        "given": "Jacob",
+        "family": "Davidsen"
+      }
     ]
   },
-  "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
+  {
+    "id": "fraser2005",
+    "type": "paper-conference",
+    "title": "Distributing Data Sessions: Supporting Remote Collaboration with Video Data",
+    "container-title": "Proceedings of the First International Conference on e-Social Science, 22-24 June",
+    "publisher-place": "Manchester",
+    "event": "First International Conference on e-Social Science",
+    "event-place": "Manchester",
+    "URL": "http://www.cs.bris.ac.uk/~fraser/projects/vidgrid/fraser-dds.pdf",
+    "author": [
+      {
+        "family": "Fraser",
+        "given": "Mike"
+      },
+      {
+        "family": "Biegel",
+        "given": "Greg"
+      },
+      {
+        "family": "Best",
+        "given": "Katie"
+      },
+      {
+        "family": "Hindmarsh",
+        "given": "Jon"
+      },
+      {
+        "family": "Heath",
+        "given": "Christian"
+      },
+      {
+        "family": "Greenhalgh",
+        "given": "Chris"
+      },
+      {
+        "family": "Reeves",
+        "given": "Stuart"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2005"
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          1,
+          2
+        ]
+      ]
     }
-  ]
-}
+  },
+  {
+    "id": "fraser2006",
+    "type": "paper-conference",
+    "container-title": "Proceedings of the Second International Conference on e-Social Science, June 2006",
+    "event": "Second International Conference on e-Social Science",
+    "event-place": "Manchester",
+    "publisher-place": "Manchester",
+    "title": "Using Real-Time Freeform Annotations as Qualitative e-Research Metadata",
+    "author": [
+      {
+        "family": "Fraser",
+        "given": "Mike"
+      },
+      {
+        "family": "Shaukat",
+        "given": "Muneeb"
+      },
+      {
+        "family": "Timakov",
+        "given": "Serguei"
+      },
+      {
+        "family": "Smith",
+        "given": "Phillip"
+      },
+      {
+        "family": "Hindmarsh",
+        "given": "Jon"
+      },
+      {
+        "family": "Tutt",
+        "given": "Dylan"
+      },
+      {
+        "family": "Heath",
+        "given": "Christian"
+      },
+      {
+        "family": "Manuel",
+        "given": "Anne"
+      },
+      {
+        "family": "Gibbs",
+        "given": "Marie"
+      },
+      {
+        "family": "Barnes",
+        "given": "Sally"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2006"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "harris2012",
+    "type": "chapter",
+    "container-title": "Reshaping Doctoral Education: International Programs and Pedagogies",
+    "event-place": "Abingdon",
+    "ISBN": "9780415618137",
+    "page": "83-95",
+    "publisher": "Routledge",
+    "publisher-place": "Abingdon",
+    "title": "'What's Going on Here?' The Pedagogy of a Data Analysis Session",
+    "author": [
+      {
+        "family": "Harris",
+        "given": "Jessica"
+      },
+      {
+        "family": "Theobald",
+        "given": "Maryanne"
+      },
+      {
+        "family": "Danby",
+        "given": "Susan"
+      },
+      {
+        "family": "Reynolds",
+        "given": "Edward"
+      },
+      {
+        "family": "Rintel",
+        "given": "Sean"
+      },
+      {
+        "family": "Members of the Transcript Analysis Group (TAG)",
+        "given": ""
+      }
+    ],
+    "editor": [
+      {
+        "family": "Lee",
+        "given": "Alison"
+      },
+      {
+        "family": "Danby",
+        "given": "Susan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2012"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "davidsen2016",
+    "type": "post-weblog",
+    "container-title": "ROLSI journal guest blog",
+    "title": "Guest blog post: Jacob Davidsen and Paul McIlvenny on Experiments with Big Video",
+    "URL": "https://rolsi.net/guest-blogs/guest-blog-jacob-davidsen-and-paul-mcilvenny-on-experiments-with-big-video/",
+    "author": [
+      {
+        "family": "Davidsen",
+        "given": "Jacob"
+      },
+      {
+        "family": "McIlvenny",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          10,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": "raudaskoski2000",
+    "type": "chapter",
+    "container-title": "Words on the Web: Computer Mediated Communication",
+    "event-place": "Exeter",
+    "ISBN": "1-871516-56-0",
+    "page": "44-51",
+    "publisher": "Intellect",
+    "publisher-place": "Exeter",
+    "title": "The Use of Communicative Resources in Internet Video Conferencing",
+    "author": [
+      {
+        "family": "Raudaskoski",
+        "given": "Pirkko"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Pemberton",
+        "given": "Lyn"
+      },
+      {
+        "family": "Shurville",
+        "given": "Simon"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2000"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "meier2003",
+    "type": "chapter",
+    "container-title": "Group Communication in Context: Studies of Bona Fide Groups",
+    "event-place": "New York",
+    "ISBN": "978-1-4106-1094-2",
+    "page": "367-397",
+    "publisher": "Lawrence Erlbaum",
+    "publisher-place": "New York",
+    "title": "Doing 'Groupness' in a Spatially Distributed Work Group: The Case of Videoconferencing at Technics",
+    "author": [
+      {
+        "family": "Meier",
+        "given": "Christoph"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Frey",
+        "given": "Lawrence R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2003"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "barabesi1997",
+    "type": "paper-conference",
+    "event": "CHI '97 Extended Abstracts on Human Factors in Computing",
+    "event-place": "Atlanta, Georgia",
+    "page": "53-54",
+    "publisher": "ACM Press",
+    "publisher-place": "Atlanta, Georgia",
+    "title": "Enhancement of Communicative Presence in Desktop Video Conferencing Systems",
+    "URL": "https://www.acm.org/sigchi/chi97/proceedings/doc/alb.htm",
+    "author": [
+      {
+        "family": "Barabesi",
+        "given": "Alessandro"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1997",
+          3,
+          22
+        ]
+      ]
+    }
+  },
+  {
+    "id": "schegloff1999",
+    "type": "article-journal",
+    "container-title": "Discourse & Society",
+    "DOI": "10.1177/0957926599010004008",
+    "issue": "4",
+    "page": "577-582",
+    "title": "Naivety vs. Sophistication or Discipline vs. Self-Indulgence: A Rejoinder to Billig",
+    "volume": "10",
+    "author": [
+      {
+        "family": "Schegloff",
+        "given": "Emanuel A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1999"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hepburn2017",
+    "type": "book",
+    "event-place": "London",
+    "ISBN": "9781446247044",
+    "publisher": "Sage",
+    "publisher-place": "London",
+    "title": "Transcribing for Social Research",
+    "author": [
+      {
+        "family": "Hepburn",
+        "given": "Alexa"
+      },
+      {
+        "family": "Bolden",
+        "given": "Galina B."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  }
 ]
