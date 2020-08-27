@@ -2,9 +2,9 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Article](https://img.shields.io/badge/article-HTML-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/)
-[![PDF article](https://img.shields.io/badge/article-PDF-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/manuscript.pdf)
-[![DOI](https://img.shields.io/badge/DOI-NNN-blue.svg)](https://)
+[![HTML Article](https://img.shields.io/badge/latest--article-HTML-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/)
+[![PDF article](https://img.shields.io/badge/latest--article-PDF-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/manuscript.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.31235/osf.io/eu7yw-blue.svg)](https://doi.org/10.31235/osf.io/eu7yw)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/QUIVIRR/Enhanced-Data-Sessions)
 ![GitHub Release Date](https://img.shields.io/github/release-date/QUIVIRR/Enhanced-Data-Sessions)
 ![GitHub repo size](https://img.shields.io/github/repo-size/QUIVIRR/Enhanced-Data-Sessions)
