@@ -24,7 +24,7 @@ eg
 else’s
 EMCA
 equirectangular
-Ethnomethodological
+ethnomethodological
 freeform
 GitKraken
 Haagh
@@ -41,7 +41,7 @@ Kovács
 latencies
 laurier
 Loughborough
-mcilvenny
+McIlvenny
 MiMeG
 Mobilities
 MOBSIN
@@ -57,7 +57,7 @@ organized
 Oulu
 Pandoc
 playhead
-Pre
+pre
 presentational
 proto
 prototyped
@@ -84,7 +84,7 @@ Tanderup
 telepresence
 timecode
 topicalise
-Transana
+TRANSANA
 tutt
 UHD
 unencrypted
