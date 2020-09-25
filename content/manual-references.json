@@ -285,31 +285,26 @@
     }
   },
   {
-    "id": "barabesi1997",
-    "type": "paper-conference",
-    "event": "CHI '97 Extended Abstracts on Human Factors in Computing",
-    "event-place": "Atlanta, Georgia",
-    "page": "53-54",
-    "publisher": "ACM Press",
-    "publisher-place": "Atlanta, Georgia",
-    "title": "Enhancement of Communicative Presence in Desktop Video Conferencing Systems",
-    "URL": "https://www.acm.org/sigchi/chi97/proceedings/doc/alb.htm",
-    "author": [
-      {
-        "family": "Barabesi",
-        "given": "Alessandro"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          "1997",
-          3,
-          22
-        ]
-      ]
-    }
-  },
+		"id": "barabesi1997",
+		"type": "paper-conference",
+		"container-title": "CHI '97 Extended Abstracts on Human Factors in Computing",
+		"event": "CHI '97 Extended Abstracts on Human Factors in Computing",
+		"event-place": "Atlanta, Georgia",
+		"page": "53-54",
+		"publisher": "ACM Press",
+		"publisher-place": "Atlanta, Georgia",
+		"title": "Enhancement of Communicative Presence in Desktop Video Conferencing Systems",
+		"URL": "https://www.acm.org/sigchi/chi97/proceedings/doc/alb.htm",
+		"author": [
+			{
+				"family": "Barabesi",
+				"given": "Alessandro"
+			}
+		],
+		"issued": {
+			"date-parts": [["1997", 3, 22]]
+		}
+	},
   {
     "id": "schegloff1999",
     "type": "article-journal",
