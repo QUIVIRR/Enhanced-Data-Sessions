@@ -3,8 +3,8 @@ author-meta:
 - Paul McIlvenny
 bibliography:
 - content/manual-references.json
-date-meta: '2020-08-27'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"citation_title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"og:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"twitter:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"dc.date\" content=\"2020-08-27\" />\n<meta name=\"citation_publication_date\" content=\"2020-08-27\" />\n<meta name=\"dc.language\" content=\"en-GB\" />\n<meta name=\"citation_language\" content=\"en-GB\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Paul McIlvenny\" />\n<meta name=\"citation_author_institution\" content=\"Department of Culture &amp; Learning, Aalborg University\" />\n<meta name=\"citation_author_institution\" content=\"Centre for Discourses in Transition (C-DiT)\" />\n<meta name=\"citation_author_institution\" content=\"Video Research Lab (VILA)\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2327-2124\" />\n<link rel=\"canonical\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"og:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"twitter:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_pdf_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/1cb400605f5cb666b3e3982a1eedfed0dea22872/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/1cb400605f5cb666b3e3982a1eedfed0dea22872/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/1cb400605f5cb666b3e3982a1eedfed0dea22872/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2020-09-25'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"citation_title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"og:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"twitter:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"dc.date\" content=\"2020-09-25\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-25\" />\n<meta name=\"dc.language\" content=\"en-GB\" />\n<meta name=\"citation_language\" content=\"en-GB\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Paul McIlvenny\" />\n<meta name=\"citation_author_institution\" content=\"Department of Culture &amp; Learning, Aalborg University\" />\n<meta name=\"citation_author_institution\" content=\"Centre for Discourses in Transition (C-DiT)\" />\n<meta name=\"citation_author_institution\" content=\"Video Research Lab (VILA)\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2327-2124\" />\n<link rel=\"canonical\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"og:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"twitter:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_pdf_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - data session
 - ethnomethodological conversation analysis
@@ -28,10 +28,10 @@ title: "New Technology and Tools to Enhance Collaborative Video Analysis in Live
 
 <small><em>
 This manuscript
-([permalink](https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/1cb400605f5cb666b3e3982a1eedfed0dea22872/))
+([permalink](https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/))
 was automatically generated
-from [QUIVIRR/Enhanced-Data-Sessions@1cb4006](https://github.com/QUIVIRR/Enhanced-Data-Sessions/tree/1cb400605f5cb666b3e3982a1eedfed0dea22872)
-on August 27, 2020.
+from [QUIVIRR/Enhanced-Data-Sessions@6b09c6f](https://github.com/QUIVIRR/Enhanced-Data-Sessions/tree/6b09c6f829bb7f5f6debadca3ae624aedbd6257a)
+on September 25, 2020.
 </em></small>
 
 ## Authors {.unnumbered}
@@ -137,7 +137,7 @@ Guidance may be given if a participant disregards points 6), 7) or 8).
 10. Written notes by participants on the transcript may be returned to the data-holder if requested.
 
 The data session genre is neither unique nor particular to EMCA.
-It has been deployed for non-audiovisual data as well as for a data-holder who does not aspire to an EMCA approach.[^predatasession] Thus, the enhancement of the general data session genre has potential benefits for a broader audience of qualitative researchers.
+It has been deployed for non-audio-visual data as well as for a data-holder who does not aspire to an EMCA approach.[^predatasession] Thus, the enhancement of the general data session genre has potential benefits for a broader audience of qualitative researchers.
 There are definitely some aspects of a ‘good’ data session that can be supported by technical solutions; other problems that need solutions may have more to do with the personalities of the participants and the specific social organisation of the event within an institutional context.
 
 There is a small literature analysing data sessions from an EMCA perspective [@antaki2008; @stevanovic2017; @tutt2011; @fraser2005; @harris2012].
@@ -152,10 +152,10 @@ Unfortunately, this danger is likely to remain a concern even when technology is
 ## Current solutions
 
 In regard to taking first steps to enhance the data session, there are some currently available solutions and some others that have been prototyped. 
-These include higher quality audiovisual devices, better modes of presentation, granting access for remote participants, and bespoke support for distributed embedded action. 
+These include higher quality audio-visual devices, better modes of presentation, granting access for remote participants, and bespoke support for distributed embedded action. 
 I give a brief overview of some of these solutions, but for the sake of brevity and focus I do not aspire to a thorough review and comparison of all prior and legacy solutions to collaborative video analysis.
 
-A straightfoward, but often negelected, step that can be taken to enhance data sessions is to improve the quality of the video and audio that is presented to the participants, and to give more individual control over, for example, sound quality.
+A straightforward, but often neglected, step that can be taken to enhance data sessions is to improve the quality of the video and audio that is presented to the participants, and to give more individual control over, for example, sound quality.
 If the participants are sitting around a table and viewing a TV monitor or the image from a projector/beamer on a screen, then there can be serious reductions in the quality of the video image, e.g. poor contrast and brightness, low resolution and washed out colours.
 A high-quality 4K/UHD (or even an 8K) large monitor/TV would obviously help matters, but even so there can be limitations when viewing 360-degree data (see *AVA360VR* below).
 Furthermore, the audio is often audible from small TV speakers or distant wall-mounted general-purpose speakers.
@@ -359,7 +359,7 @@ Experiments have been conducted using friendlier graphical user interfaces, such
 #### Live editing of a common transcript
 
 Transcripts are malleable objects that are under continual revision.
-Often in data sessions, suggestions to alter the common transcript according to a revised hearing or seeing of the audiovisual recording are made and discussed.
+Often in data sessions, suggestions to alter the common transcript according to a revised hearing or seeing of the audio-visual recording are made and discussed.
 Annotations are written by hand on each individual transcript, with the result that changes, and their reasons, are hard to keep track of, especially for newcomers to the field.
 How could one support live editing by one *or more* analysts of a common transcript in an enhanced data session? If one puts aside the important issues of data security and privacy, one could use the user-friendly cloud-based, centralised *Google Docs* to create a document that multiple users could edit simultaneously *online*, with a simple chronological history of revisions made.
 If necessary, an earlier version could be restored without deleting later versions.
@@ -411,7 +411,7 @@ This solution may seem complex and clumsy for non-programmers, since it currentl
 I have outlined how the formative, traditional data session can be enhanced by using simple technologies such as the ‘silent data session’, by developing software tools to present and collaborate (remotely) on new types of video data using immersive virtual reality technologies, and with version control to enable tighter control over, but also the freedom to collaborate on, revising a common document such as a transcript used in a data session.
 As a result, there are a number of important enhancements of the data session genre and its practices that supplement the sharing and embodying of perspectives, support technologies of perception [@fraser2005] and inculcate a common archive of traceable documentation:
 
-- Improved personal experience of each analyst regarding access to and control over audiovisual playback.
+- Improved personal experience of each analyst regarding access to and control over audio-visual playback.
 
 - Friendlier and more tangible interfaces for presenting new forms of video data.
 
@@ -428,12 +428,12 @@ With a little thought and experimentation, with qualitative researchers intimate
 I have focused on data sessions, but the tools proposed have their genesis at other stages in the workflow from data collection to final publication.
 For example, the *SQUIVE* engine has its roots in figuring out how to deal with the complexity of contemporary data collection practices that increasingly result in terabytes of raw data.
 The *AVA360VR* tool focuses on supporting analysis after making preliminary clip collections and transcripts.
-The *DOTE* tool, which is in development, is tailored for synchronous and asynchronous team transcription of rich audiovisual data.
+The *DOTE* tool, which is in development, is tailored for synchronous and asynchronous team transcription of rich audio-visual data.
 Notwithstanding the genesis of these niche tools, the enhanced data session comprises a range of practices that overlap with these niches, e.g. taking a group on an interactive tour of the archived immersive data collection site (*SQUIVE*), showing prepared annotations of a short time-slice of multi-cam data captured in an event (*AVA360VR*), and live re-transcription in a group (*DOTE*).
 
 ![New workflows that impact the data session - DOI:[10.6084/m9.figshare.12689729](https://doi.org/10.6084/m9.figshare.12689729).](images/image9.png){#fig:image9}
 
-Of course, given the nature of these technology and software solutions, the risk of alienation and failure is always present, not only for those new to qualitative analysis of audiovisual data (e.g. EMCA) and inexperienced in the conduct of data sessions, but also those averse with good reason to the encroachment of ‘black-box’ complex technology.
+Of course, given the nature of these technology and software solutions, the risk of alienation and failure is always present, not only for those new to qualitative analysis of audio-visual data (e.g. EMCA) and inexperienced in the conduct of data sessions, but also those averse with good reason to the encroachment of ‘black-box’ complex technology.
 Using a standard video player on a laptop and a standard LCD monitor, with the technology of pen and paper for the transcript and notes, does the job for legacy video data and has stood the test of time.
 Notwithstanding these legitimate concerns, future developments of the enhanced data session include:
 
@@ -544,10 +544,10 @@ Additionally, the three analysts have given their consent for the *CAVA360VR* av
 
 ## Acknowledgements {.unnumbered .page_break_before}
 
-I would like to thank my colleague Jacob Davidsen for our mighty collaboration on _Big Video_, in which many of the strands and ideas to be found in this article were brewing.
+I would like to thank my colleague Jacob Davidsen for our mighty collaboration on *Big Video*, in which many of the strands and ideas to be found in this article were brewing.
 Also, much gratitude to Nicklas Haagh Christensen, who was the lead programmer and developer for *BigSoftVideo*, and to Stefan Tanderup and Artúr Kovács for their recent additions to *AVA360VR*, *CAVA360VR* and *DOTE*.
 Thanks also to my colleagues at Aalborg University who, over the last few years, have trialled many of the innovations reported in this article.
-Cheers to those colleagues who took part in the live *CAVA360VR* virtual data session that can be viewed on _YouTube_ and is archived on Zenodo.
+Cheers to those colleagues who took part in the live *CAVA360VR* virtual data session that can be viewed on *YouTube* and is archived on *Zenodo*.
 The *Video Research Lab* (VILA) in the Faculty of Humanities at Aalborg University provided technical equipment and support staff for software development.
 The article was prepared in markdown using *Manubot* [@doi:10.1371/journal.pcbi.1007128] and *Pandoc Scholar* [@doi:10.7717/peerj-cs.112] open source software on *GitHub*.
 
