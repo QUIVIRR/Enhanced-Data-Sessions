@@ -24,7 +24,7 @@ eg
 else’s
 EMCA
 equirectangular
-ethnomethodological
+Ethnomethodological
 freeform
 GitKraken
 Haagh
@@ -67,7 +67,7 @@ recamming
 recognize
 repurpose
 repurposed
-Repurposing
+repurposing
 saveable
 schegloff
 schnettler
@@ -82,7 +82,7 @@ Tanderup
 telepresence
 timecode
 topicalise
-Transana
+TRANSANA
 tutt
 UHD
 unencrypted
