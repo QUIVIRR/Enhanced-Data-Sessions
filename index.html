@@ -5,7 +5,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Paul McIlvenny" />
-  <meta name="dcterms.date" content="2020-09-25" />
+  <meta name="dcterms.date" content="2020-10-08" />
   <meta name="keywords" content="data session, ethnomethodological conversation analysis, audio-visual technology, qualitative research, digital humanities, immersive qualitative analytics, virtual reality" />
   <title>New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’</title>
   <style>
@@ -28,8 +28,8 @@
   <meta name="citation_title" content="New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’" />
   <meta property="og:title" content="New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’" />
   <meta property="twitter:title" content="New Technology and Tools to Enhance Collaborative Video Analysis in Live ‘Data Sessions’" />
-  <meta name="dc.date" content="2020-09-25" />
-  <meta name="citation_publication_date" content="2020-09-25" />
+  <meta name="dc.date" content="2020-10-08" />
+  <meta name="citation_publication_date" content="2020-10-08" />
   <meta name="dc.language" content="en-GB" />
   <meta name="citation_language" content="en-GB" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@
   <meta name="citation_fulltext_html_url" content="https://QUIVIRR.github.io/Enhanced-Data-Sessions/" />
   <meta name="citation_pdf_url" content="https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/" />
-  <meta name="manubot_html_url_versioned" content="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/3e2fd5bef6522da8333be41e11472f6c405ee4b0/" />
+  <meta name="manubot_html_url_versioned" content="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/3e2fd5bef6522da8333be41e11472f6c405ee4b0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/3e2fd5bef6522da8333be41e11472f6c405ee4b0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/6b09c6f829bb7f5f6debadca3ae624aedbd6257a/">permalink</a>)
+(<a href="https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/3e2fd5bef6522da8333be41e11472f6c405ee4b0/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/QUIVIRR/Enhanced-Data-Sessions/tree/6b09c6f829bb7f5f6debadca3ae624aedbd6257a">QUIVIRR/Enhanced-Data-Sessions@6b09c6f</a>
-on September 25, 2020.
+from <a href="https://github.com/QUIVIRR/Enhanced-Data-Sessions/tree/3e2fd5bef6522da8333be41e11472f6c405ee4b0">QUIVIRR/Enhanced-Data-Sessions@3e2fd5b</a>
+on October 8, 2020.
 </em></small></p>
 <h2 class="unnumbered" id="authors">Authors</h2>
 <ul>
@@ -3305,8 +3305,6 @@ Additionally, the three analysts have given their consent for the <em>CAVA360VR<
             window.addEventListener('load', start);
     })();
 </script>
-<!-- table of contents plugin -->
-
 <script>
     (function() {
         // /////////////////////////
@@ -3329,10 +3327,13 @@ Additionally, the three analysts have given their consent for the <em>CAVA360VR<
             // which types of elements to add links for, in
             // "document.querySelector" format
             typesQuery: 'h1, h2, h3',
-            // whether default behavior is to be closed ('false'), open
-            // ('true'), or only open when screen wide enough to fit panel
-            // ('auto'). note: still always starts closed when page loads.
-            open: 'auto',
+            // whether toc starts open. use 'true' or 'false', or 'auto' to
+            // use 'true' behavior when screen wide enough and 'false' when not
+            startOpen: 'false',
+            // whether toc closes when clicking on toc link. use 'true' or
+            // 'false', or 'auto' to use 'false' behavior when screen wide
+            // enough and 'true' when not
+            clickClose: 'auto',
             // if list item is more than this many characters, text will be
             // truncated
             charLimit: '50',
@@ -3357,13 +3358,21 @@ Additionally, the three analysts have given their consent for the <em>CAVA360VR<
             if (!panel)
                 return;
             makeEntries(panel);
+            // attach panel to document after making entries, so 'toc' heading
+            // in panel isn't included in toc
             document.body.insertBefore(panel, document.body.firstChild);
 
-            closePanel();
+            // initial panel state
+            if (
+                options.startOpen === 'true' ||
+                (options.startOpen === 'auto' && !isSmallScreen())
+            )
+                openPanel();
+            else
+                closePanel();
 
             // attach click, scroll, and hash change listeners to window
             window.addEventListener('click', onClick);
-            window.addEventListener('touchstart', onClick);
             window.addEventListener('scroll', onScroll);
             window.addEventListener('hashchange', onScroll);
             window.addEventListener('keyup', onKeyUp);
@@ -3381,25 +3390,10 @@ Additionally, the three analysts have given their consent for the <em>CAVA360VR<
             return window.innerWidth < 816 + 260 * 2;
         }
 
-        // open/close panel based on option and screen size
-        function openOrClosePanel() {
-            if (
-                options.open === 'true' ||
-                (options.open === 'auto' && !isSmallScreen())
-            )
-                openPanel();
-            else
-                closePanel();
-        }
-
         // when mouse is clicked anywhere in window
         function onClick() {
-            const panel = document.getElementById('toc_panel');
-            if (!panel)
-                return;
-
-            if (panel.dataset.open === 'true')
-                openOrClosePanel();
+            if (isSmallScreen())
+                closePanel();
         }
 
         // when window is scrolled or hash changed
@@ -3481,8 +3475,8 @@ Additionally, the three analysts have given their consent for the <em>CAVA360VR<
             button.classList.add('icon_button');
 
             // create header text
-            const text = document.createElement('h3');
-            text.innerHTML = 'View Table of Contents';
+            const text = document.createElement('h4');
+            text.innerHTML = 'Table of Contents';
 
             // create container for toc list
             const list = document.createElement('div');
@@ -3559,8 +3553,14 @@ Additionally, the three analysts have given their consent for the <em>CAVA360VR<
         }
 
         // when link is clicked
-        function onLinkClick() {
-            openOrClosePanel();
+        function onLinkClick(event) {
+            if (
+                options.clickClose === 'true' ||
+                (options.clickClose === 'auto' && isSmallScreen())
+            )
+                closePanel();
+            else
+                openPanel();
         }
 
         // open panel if closed, close if opened
