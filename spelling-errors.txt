@@ -17,14 +17,14 @@ ClickMeeting
 COVID
 criss
 crowdsourcing
-davidsen
+Davidsen
 directionality
 DiT
 eg
 else’s
 EMCA
 equirectangular
-Ethnomethodological
+ethnomethodological
 freeform
 GitKraken
 Haagh
@@ -41,7 +41,7 @@ Kovács
 latencies
 laurier
 Loughborough
-McIlvenny
+mcilvenny
 MiMeG
 Mobilities
 MOBSIN
@@ -67,7 +67,7 @@ recamming
 recognize
 repurpose
 repurposed
-repurposing
+Repurposing
 saveable
 schegloff
 schnettler
@@ -82,7 +82,7 @@ Tanderup
 telepresence
 timecode
 topicalise
-TRANSANA
+Transana
 tutt
 UHD
 unencrypted
