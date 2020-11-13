@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/QUIVIRR/Enhanced-Data-Sessions/tree/gh-pages) branch hosts the contents of this directory at <https://QUIVIRR.github.io/Enhanced-Data-Sessions/>.
-The permalink for this webpage version is <https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/f98394ccf5d3df9dc331a68593cb45d6ec14cb9a/>.
+The permalink for this webpage version is <https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/110b5de5e21b75cf759c977922a60d0a9d69192b/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f98394ccf5d3df9dc331a68593cb45d6ec14cb9a`](https://github.com/QUIVIRR/Enhanced-Data-Sessions/commit/f98394ccf5d3df9dc331a68593cb45d6ec14cb9a).
+[`110b5de5e21b75cf759c977922a60d0a9d69192b`](https://github.com/QUIVIRR/Enhanced-Data-Sessions/commit/110b5de5e21b75cf759c977922a60d0a9d69192b).
