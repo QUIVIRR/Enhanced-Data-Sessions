@@ -56,7 +56,7 @@ organized
 Oulu
 Pandoc
 playhead
-pre
+Pre
 presentational
 proto
 prototyped
@@ -82,7 +82,7 @@ Tanderup
 telepresence
 timecode
 topicalise
-TRANSANA
+Transana
 tutt
 UHD
 unencrypted
