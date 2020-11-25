@@ -1,7 +1,8 @@
 Aalborg
 abductive
+affordances
 ambisonic
-analytics
+Analytics
 anonymisation
 anonymised
 Artúr
@@ -17,14 +18,14 @@ ClickMeeting
 COVID
 criss
 crowdsourcing
-Davidsen
+davidsen
 directionality
 DiT
 eg
 else’s
 EMCA
 equirectangular
-Ethnomethodological
+ethnomethodological
 freeform
 GitKraken
 Haagh
@@ -41,6 +42,7 @@ Kovács
 latencies
 laurier
 Loughborough
+macOS
 McIlvenny
 MiMeG
 Mobilities
@@ -56,7 +58,7 @@ organized
 Oulu
 Pandoc
 playhead
-Pre
+pre
 presentational
 proto
 prototyped
@@ -67,7 +69,7 @@ recamming
 recognize
 repurpose
 repurposed
-repurposing
+Repurposing
 saveable
 schegloff
 schnettler
