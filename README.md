@@ -1,10 +1,10 @@
-# Automated scholarly manuscript on GitHub
+# Enhanced Data Sessions article prepared with Manubot
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Article](https://img.shields.io/badge/latest--article-HTML-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/)
 [![PDF article](https://img.shields.io/badge/latest--article-PDF-blue.svg)](https://quivirr.github.io/Enhanced-Data-Sessions/manuscript.pdf)
-[![DOI](https://img.shields.io/badge/DOI-10.31235/osf.io/eu7yw-blue.svg)](https://doi.org/10.31235/osf.io/eu7yw)
+[![DOI](https://img.shields.io/badge/DOI-10.5278/ojs.quivirr.v1.2020.a0001.svg)](https://doi.org/10.5278/ojs.quivirr.v1.2020.a0001)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/QUIVIRR/Enhanced-Data-Sessions)
 ![GitHub Release Date](https://img.shields.io/github/release-date/QUIVIRR/Enhanced-Data-Sessions)
 ![GitHub repo size](https://img.shields.io/github/repo-size/QUIVIRR/Enhanced-Data-Sessions)
@@ -20,11 +20,15 @@
 
 This repository contains all versions and revisions made to the complete text of an article by Paul McIlvenny.
 
-A first draft of the article was written in October 2019. A second draft was prepared in July and August 2020 using Manubot and a private GitHub repository, as well as Pandoc, GitKraken, VScode and other open source software. The final draft using Manubot and a GitHub repository was made public on @QUIVIRR, and a preprint PDF was uploaded to SocArXiv. Some of the figures are archived on FigShare and the video link is archived on Zenodo.
+A first draft of the article was written in October 2019.
+A second draft was prepared in July and August 2020 using Manubot and a private GitHub repository, as well as Pandoc, GitKraken, VScode and other open source software.
+The final draft was made public on @QUIVIRR with a GitHub repository using Manubot, and a preprint PDF was uploaded to [SocArXiv](https://doi.org/10.31235/osf.io/eu7yw).
+Some of the figures are archived on FigShare and the video is available on YouTube and archived on Zenodo.
+The article was published (December 2020) in the [QUIVIRR: Qualitative Video Research Reports](https://journals.aau.dk/index.php/QUIVIRR/index) journal in [RICH HTML and PDF formats](https://journals.aau.dk/index.php/QUIVIRR/article/view/a0001).
+Updates and corrections to the raw article in markdown [see the `content` folder] will be version controlled in this GitHub repository.
+The latest (not yet formatted for QuiViRR) versions of the article are available here ([HTML](https://quivirr.github.io/Enhanced-Data-Sessions/) or [PDF](https://quivirr.github.io/Enhanced-Data-Sessions/manuscript.pdf)).
 
-<!--  and the article was published on QUIVIRR OJS in HTML and PDF formats. -->
-
-## Manubot
+## What is Manubot?
 
 <!-- usage note: do not edit this section -->
 
