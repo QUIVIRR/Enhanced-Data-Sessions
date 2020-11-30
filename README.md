@@ -22,11 +22,12 @@ This repository contains all versions and revisions made to the complete text of
 
 A first draft of the article was written in October 2019.
 A second draft was prepared in July and August 2020 using Manubot and a private GitHub repository, as well as Pandoc, GitKraken, VScode and other open source software.
-The final draft was made public on @QUIVIRR with a GitHub repository using Manubot, and a preprint PDF was uploaded to [SocArXiv](https://doi.org/10.31235/osf.io/eu7yw).
+The final draft was made public on @QUIVIRR in a GitHub repository using Manubot, and a preprint PDF was uploaded to [SocArXiv](https://doi.org/10.31235/osf.io/eu7yw).
 Some of the figures are archived on FigShare and the video is available on YouTube and archived on Zenodo.
 The article was published (December 2020) in the [QUIVIRR: Qualitative Video Research Reports](https://journals.aau.dk/index.php/QUIVIRR/index) journal in [RICH HTML and PDF formats](https://journals.aau.dk/index.php/QUIVIRR/article/view/a0001).
 Updates and corrections to the raw article in markdown [see the `content` folder] will be version controlled in this GitHub repository.
-The latest (not yet formatted for QuiViRR) versions of the article are available here ([HTML](https://quivirr.github.io/Enhanced-Data-Sessions/) or [PDF](https://quivirr.github.io/Enhanced-Data-Sessions/manuscript.pdf)).
+The latest (not yet formatted for _QuiViRR_) versions of the article are available here ([HTML](https://quivirr.github.io/Enhanced-Data-Sessions/) or [PDF](https://quivirr.github.io/Enhanced-Data-Sessions/manuscript.pdf)).
+These versions are updated automatically every time a commit with changes is made to the repository.
 
 ## What is Manubot?
 
