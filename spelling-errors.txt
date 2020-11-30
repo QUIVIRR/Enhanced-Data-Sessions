@@ -18,14 +18,14 @@ ClickMeeting
 COVID
 criss
 crowdsourcing
-davidsen
+Davidsen
 directionality
 DiT
 eg
 else’s
 EMCA
 equirectangular
-ethnomethodological
+Ethnomethodological
 freeform
 GitKraken
 Haagh
@@ -58,7 +58,7 @@ organized
 Oulu
 Pandoc
 playhead
-pre
+Pre
 presentational
 proto
 prototyped
@@ -84,7 +84,7 @@ Tanderup
 telepresence
 timecode
 topicalise
-Transana
+TRANSANA
 tutt
 UHD
 unencrypted
