@@ -3,8 +3,8 @@ author-meta:
 - Paul McIlvenny
 bibliography:
 - content/manual-references.json
-date-meta: '2020-11-30'
-header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"citation_title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"og:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"twitter:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"dc.date\" content=\"2020-11-30\" />\n<meta name=\"citation_publication_date\" content=\"2020-11-30\" />\n<meta name=\"dc.language\" content=\"en-GB\" />\n<meta name=\"citation_language\" content=\"en-GB\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Paul McIlvenny\" />\n<meta name=\"citation_author_institution\" content=\"Department of Culture &amp; Learning, Aalborg University\" />\n<meta name=\"citation_author_institution\" content=\"Centre for Discourses in Transition (C-DiT)\" />\n<meta name=\"citation_author_institution\" content=\"Video Research Lab (VILA)\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2327-2124\" />\n<link rel=\"canonical\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"og:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"twitter:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_pdf_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/34ffeaf3f46433186584ac55100fb4c59f23dde1/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/34ffeaf3f46433186584ac55100fb4c59f23dde1/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/34ffeaf3f46433186584ac55100fb4c59f23dde1/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
+date-meta: '2021-03-04'
+header-includes: "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"citation_title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"og:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta property=\"twitter:title\" content=\"New Technology and Tools to Enhance Collaborative Video Analysis in Live \u2018Data Sessions\u2019\" />\n<meta name=\"dc.date\" content=\"2021-03-04\" />\n<meta name=\"citation_publication_date\" content=\"2021-03-04\" />\n<meta name=\"dc.language\" content=\"en-GB\" />\n<meta name=\"citation_language\" content=\"en-GB\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Paul McIlvenny\" />\n<meta name=\"citation_author_institution\" content=\"Department of Culture &amp; Learning, Aalborg University\" />\n<meta name=\"citation_author_institution\" content=\"Centre for Discourses in Transition (C-DiT)\" />\n<meta name=\"citation_author_institution\" content=\"Video Research Lab (VILA)\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-2327-2124\" />\n<link rel=\"canonical\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"og:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta property=\"twitter:url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/\" />\n<meta name=\"citation_pdf_url\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/b5297a69d0d9c91ed91596f6512dca29d82932b6/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/b5297a69d0d9c91ed91596f6512dca29d82932b6/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/b5297a69d0d9c91ed91596f6512dca29d82932b6/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->"
 keywords:
 - data session
 - ethnomethodological conversation analysis
@@ -28,10 +28,10 @@ title: "New Technology and Tools to Enhance Collaborative Video Analysis in Live
 
 <small><em>
 This manuscript
-([permalink](https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/34ffeaf3f46433186584ac55100fb4c59f23dde1/))
+([permalink](https://QUIVIRR.github.io/Enhanced-Data-Sessions/v/b5297a69d0d9c91ed91596f6512dca29d82932b6/))
 was automatically generated
-from [QUIVIRR/Enhanced-Data-Sessions@34ffeaf](https://github.com/QUIVIRR/Enhanced-Data-Sessions/tree/34ffeaf3f46433186584ac55100fb4c59f23dde1)
-on November 30, 2020.
+from [QUIVIRR/Enhanced-Data-Sessions@b5297a6](https://github.com/QUIVIRR/Enhanced-Data-Sessions/tree/b5297a69d0d9c91ed91596f6512dca29d82932b6)
+on March 4, 2021.
 </em></small>
 
 ## Authors {.unnumbered}
@@ -51,10 +51,10 @@ on November 30, 2020.
 
 ## Abstract {.unnumbered}
 
-The live ‘data session’ is arguably a significant collaborative practice amongst a group of co-present colleagues that has sustained the fermentation of emerging analyses of interactional phenomena in ethnomethodological conversation analysis for several decades. 
-There has not, however, been much in the way of technological innovation since its inception. 
-In this article, I outline how the data session can be enhanced (a) by using simple technologies to support the ‘silent data session’, (b) by developing software tools to present, navigate and collaborate on new types of video data in novel ways using immersive virtual reality technologies, and (c) by supporting distributed version control to nurture the freedom and safety to collaborate synchronously and asynchronously on the revision of a common transcript used in a live data session. 
-Examples of real cases, technical solutions and best practices are given based on experience. 
+The live ‘data session’ is arguably a significant collaborative practice amongst a group of co-present colleagues that has sustained the fermentation of emerging analyses of interactional phenomena in ethnomethodological conversation analysis for several decades.
+There has not, however, been much in the way of technological innovation since its inception.
+In this article, I outline how the data session can be enhanced (a) by using simple technologies to support the ‘silent data session’, (b) by developing software tools to present, navigate and collaborate on new types of video data in novel ways using immersive virtual reality technologies, and (c) by supporting distributed version control to nurture the freedom and safety to collaborate synchronously and asynchronously on the revision of a common transcript used in a live data session.
+Examples of real cases, technical solutions and best practices are given based on experience.
 The advantages and limitations of these significant enhancements are discussed in methodological terms with an eye to future developments.
 
 ### Keywords {.unnumbered}
@@ -66,13 +66,14 @@ Data session, Ethnomethodological conversation analysis, Audio-visual technology
 
 At the risk of overgeneralising, many scholars working today in ethnomethodological conversation analysis (EMCA) and comparable qualitative approaches to video data [@knoblauch2008; @schnettler2008] rely on trusty software applications such as familiar word processors and standard digital media players on the computer desktop when they work with their video data.
 They do this for a variety of understandable reasons, including a lack of technical competence, a lock-in to generalised desktop word processing tools, a frustration with the complexity of specialised software and the paucity of easily re-usable features.
-With new types of video data, e.g. 360-degree video and spatial audio, there are good reasons why this situation may have to change [@mcilvenny2019].[^360]
-My argument is not about transcription software or video players per se; instead, it shifts attention to repurposing technology and developing software to support and enhance the collaborative analysis of video data within a paradigm advanced since 2016 called *Big Video* [@Nordicom2017; @davidsen2016].
-Moreover, my specific focus is the genre of the live ‘data session’. This is arguably a significant collaborative practice amongst a group of co-present colleagues that has sustained the fermentation of emerging analyses of interactional phenomena in EMCA for several decades [@antaki2008; @stevanovic2017; @tutt2011; @fraser2005; @harris2012].
+With new types of video data, e.g. 360-degree video and spatial audio, there are good reasons why this inhibited reliance may have to change [@mcilvenny2019].[^360]
+My argument is not about innovation in transcription software or video players per se; instead, it shifts attention to repurposing technology and developing software to support and enhance the collaborative analysis of video data within a paradigm advanced since 2016 called *Big Video* [@Nordicom2017; @davidsen2016].
+Moreover, my specific focus is the genre of the live ‘data session’.
+This is arguably a significant collaborative practice amongst a group of co-present colleagues that has sustained the fermentation of emerging analyses of interactional phenomena in EMCA for several decades [@antaki2008; @stevanovic2017; @tutt2011; @fraser2005; @harris2012].
 The genre has regional and national variations, but for the most part it has been structured around a group of colleagues replaying an analogue or digital video on a flat TV or projection screen while referring to a static paper transcript.
-There has not, however, been much technological innovation over the course of its history [@evers2011], and some early positive features – e.g. equal participation, a collaborative space for brainstorming – may have been lost or mislaid.[^opendata]
+There has not, however, been much technological innovation over the course of its history [@evers2011], and some early positive features – e.g. equal participation and a collaborative space for brainstorming – may have been lost or mislaid.[^opendata]
 Thus, the time is ripe for more experimentation [@laurier2019; @mondada2019; @Nordicom2017].
-The diagram in Figure {@fig:image1} maps out a much simplified linear workflow in which the data session has its place, with an indication of the roles of some technologies and software tools to enhance the data session that I elaborate on below.
+The diagram in Figure {@fig:image1} maps out a simplified linear workflow in which the data session has its place, with an indication of the roles of some technologies and software tools to enhance the data session that I elaborate on below.
 
 ![Simplified Big Video workflow with toolkit - DOI:[10.6084/m9.figshare.12687737](https://doi.org/10.6084/m9.figshare.12687737).](images/image1.png){#fig:image1}
 
@@ -114,7 +115,8 @@ Based on my experience over the years and on local experiments with the data ses
 2. A transcript in some recognisable format (e.g. Jeffersonian, Mondadian, score-based) is usually handed out on paper to the participants [@hepburn2017; @mondada2018].
 Other materials may be distributed or presented, such as screenshots, photos and diagrams [@laurier2014; @laurier2019].
 
-3. A period of acclimatisation is needed, in which the video is replayed many times. Clarifications of the transcript and the setting may be requested to find a common understanding and a ‘correct’ version of the transcript agreed upon by the group.
+3. A period of acclimatisation is needed, in which the video is replayed many times.
+Clarifications of the transcript and the setting may be requested to find a common understanding and a ‘correct’ version of the transcript agreed upon by the group.
 
 4. Often a particular section of the transcript is selected to focus the work of the group.
 
@@ -151,8 +153,8 @@ Unfortunately, this danger is likely to remain a concern even when technology is
 
 ## Current solutions
 
-In regard to taking first steps to enhance the data session, there are some currently available solutions and some others that have been prototyped. 
-These include higher quality audio-visual devices, better modes of presentation, granting access for remote participants, and bespoke support for distributed embedded action. 
+In regard to taking first steps to enhance the data session, there are some currently available solutions and some others that have been prototyped.
+These include higher quality audio-visual devices, better modes of presentation, granting access for remote participants, and bespoke support for distributed embedded action.
 I give a brief overview of some of these solutions, but for the sake of brevity and focus I do not aspire to a thorough review and comparison of all prior and legacy solutions to collaborative video analysis.
 
 A straightforward, but often neglected, step that can be taken to enhance data sessions is to improve the quality of the video and audio that is presented to the participants, and to give more individual control over, for example, sound quality.
@@ -162,13 +164,13 @@ Furthermore, the audio is often audible from small TV speakers or distant wall-m
 The audio quality is often poor, and the audio level is not adjustable to match individual preference, e.g. one may be hard-of-hearing or at the back of a room with poor acoustics.
 A reliable solution can be found from an unusual source as described below.
 
-Some of the well-known transcription software tools available do have some features that could be useful in a data session. 
+Some of the well-known transcription software tools available do have some features that could be useful in a data session.
 For instance, the free *CLAN* software for transcription, coding and analysis supports a web HTML interface for playback of a transcript in a browser, known as “Browsable Watch”.[^clan]
 The commercial *TRANSANA* software [@woods2011] also supports a “Presentation Mode” that plays a video while automatically scrolling through the time-coded transcript segment by segment.[^transana]
-Both of these features enable a data-holder to play a video while automatically scrolling through a mutually accessible digital transcript that everyone may also have in printed form. 
+Both of these features enable a data-holder to play a video while automatically scrolling through a mutually accessible digital transcript that everyone may also have in printed form.
 These ‘presentational’ features of desktop transcription software solutions can be easily re-presented virtually and developed further in virtual reality environments, such as in *AVA360VR* described below.
 
-Vanilla video conferencing over the Internet has been possible since the 1990s [@barabesi1997; @meier1998; @meier2003; @raudaskoski2000]. 
+Vanilla video conferencing over the Internet has been possible since the 1990s [@barabesi1997; @meier1998; @meier2003; @raudaskoski2000].
 With increasing resolution and computing power, video conference software can be run from a laptop or a smartphone to give some sense of visual telepresence [@licoppe2012].
 When used in a remote data session, it permits participants to take a more spectatorial position in relation to the presentation of video data and the commentary and discussion that ensues.[^RDS]
 Nowadays, 360-degree video conferencing is possible with the appropriate bandwidth and seating arrangement, e.g. *Meeting Owl*.[^OWL]
@@ -186,7 +188,7 @@ As demonstrated below, with virtual reality technology today much of what transp
 After the memorable ‘silent disco’ event at the International Conference on Conversation Analysis (ICCA) in Loughborough in 2018, a set of 24 silent disco headphones, three local FM radio transmitters and two bulk USB chargers (see Figure {@fig:image2}) were purchased at my university specifically to enhance data sessions.[^SilentDisco]
 Prior to this purchase, a 16-channel stereo headphone mixer with wired headphones had been used, but this was clumsy with so many criss-crossing wires.
 Also, the volume had to be adjusted at the mixer, which was cumbersome.
-The silent disco headphones are wireless, and because they use the analogue FM radio band there is no noticeable latency. 
+The silent disco headphones are wireless, and because they use the analogue FM radio band there is no noticeable latency.
 In addition, there is no limit on the number of receivers, unlike WiFi or Bluetooth digital networks that share a single bi-directional bandwidth and thus get congested.
 They also have an individual volume control on the side, as well as an internal lithium-ion rechargeable battery that can be charged with a simple USB cable.
 
@@ -205,7 +207,7 @@ Participants using headphones can listen (or not) to the looped clip without dis
 This is especially useful if the event was recorded, for example, with several cameras and/or wireless microphones.
 Participants can personally select which of the channels they wish to listen to.
 For instance, the whole group can switch to a new channel, or an individual choice can be made.
-If the distinct recordings from each microphone are mixed into three separate stereo tracks, then each of those tracks can be passed on to a dedicated transmitter which sends the signal on a unique, local FM frequency band.[^Stereo] 
+If the distinct recordings from each microphone are mixed into three separate stereo tracks, then each of those tracks can be passed on to a dedicated transmitter which sends the signal on a unique, local FM frequency band.[^Stereo]
 Each headphone has a button to quickly toggle between the three fixed frequency bands, each of which has a specific coloured lighting (e.g. red, green or blue) on the headphone cups (see Figure {@fig:image2}).
 
 4. Given that the silent disco headphones are stereo, and playback of ambisonic spatial audio requires stereo headphones for accurate binaural spatialisation, then it is possible to replay 360-degree video data, if it has a spatial audio track, so that participants hear the sound in the recorded scene with some *directionality*.
@@ -263,11 +265,12 @@ To locate existing work practices that would need to be supported, a preliminary
 
 #### CAVA360VR
 
-In order to further develop an IQA toolkit, a prototype *CAVA360VR* (Collaborate, Annotate, Visualise, Analyse 360-degree video in Virtual Reality) has been built and tested. It is a simplified and modified version of *AVA360VR* suitable for collaboration.[^CAVA]
+In order to further develop an IQA toolkit, a prototype *CAVA360VR* (Collaborate, Annotate, Visualise, Analyse 360-degree video in Virtual Reality) has been built and tested.
+It is a simplified and modified version of *AVA360VR* suitable for collaboration.[^CAVA]
 It is designed to allow up to 20 analysts in different locations around the world to come together simultaneously in an immersive virtual environment to analyse a tangible 360-degree video.
-Given the radical changes in our work practices as a consequence of the COVID-19 pandemic in 2020, CAVA360VR offers the possibility to collaborate remotely on analysing complex video data in a more immersive fashion than desktop video conferencing. 
+Given the radical changes in our work practices as a consequence of the COVID-19 pandemic in 2020, CAVA360VR offers the possibility to collaborate remotely on analysing complex video data in a more immersive fashion than desktop video conferencing.
 There are two modes of participation: VR and non-VR.
-In the VR mode, each person accessing the ‘room’ needs a VR headset (e.g. *HTC VIVE PRO or OCULUS RIFT S* or *HP REVERB*) and an appropriately powerful laptop or desktop computer to run the software (for Windows 10) locally. 
+In the VR mode, each person accessing the ‘room’ needs a VR headset (e.g. *HTC VIVE PRO* or *OCULUS RIFT S* or *HP REVERB*) and an appropriately powerful laptop or desktop computer to run the software (for Windows 10) locally.
 In the non-VR mode, an ordinary PC laptop with Windows 10 will suffice.
 In addition, reliable fast Internet access is required.
 To minimise latency, the 360-degree video and other media files are stored locally on each computer, so they must be shared beforehand.[^Ethics]
@@ -280,9 +283,10 @@ The *CAVA360VR* tool has several powerful features, some of which are derived fr
 
 1. A *CAVA360VR* user hosts a private virtual room that any other user can join if they know the password.
 
-2. Users who join the room arrive in a shared 3D space with a head avatar and two hands that are visible to others co-present in the virtual space (see Figure {@fig:image4}).
+2. Users who join the room arrive in a shared 3D space with an avatar head and two hands that are visible to others co-present in the virtual space (see Figure {@fig:image4} in which an avatar head for user 'M' is visible).
 
-3. Users can talk to each other. Users are identified by name tags on their avatars.
+3. Users can talk to each other.
+Users are identified by name tags on their avatars.
 
 4. A common 360-degree video plays for all the users, surrounding them on all sides.
 
@@ -293,7 +297,8 @@ Any user can scrub the video by grabbing the playhead.
 
 7. Every user sees a transient visual ‘smoke’ trail that traces the movement of everyone’s laser pointer up to its current position.
 
-8. Any VR user can draw on the video. Drawings are visible to, and moveable by, all other users (see Figure {@fig:image4}).
+8. Any VR user can draw on the video.
+Drawings are visible to, and moveable by, all other users (see Figure {@fig:image4}).
 However, only creators can delete their own drawings.
 
 9. An image or text, such as a transcript, can be inserted into the scene, which all other uses can see.
@@ -330,8 +335,9 @@ The audio chat supported in *CAVA360VR* was problematic as a result of the poor 
 The mixed virtual data session was conducted according to the usual principles over a two hour period.
 Several of the data session participants in Aalborg gave their commentary on the data in VR using *CAVA360VR*, while others preferred to talk while the author manipulated the video and the tools to show the phenomena in question.
 
-In May 2020, as a consequence of the COVID-19 pandemic, the latest version of *CAVA360VR* was used in a virtual research workshop (MOBSIN 10: *Advanced European Workshop on Mobilities and Social Interaction*) to live stream a 45-minute data session between five remote participants (working from home in Ghana, Aalborg and Oulu) who were collaborating on the same video data as described above.
-The live stream was relayed via *Blackboard Connect* to 30 viewers around Europe. Due to the limitations of *Blackboard Connect*, these viewers could not hear or interact with anyone else except the streamer.
+In May 2020, as a consequence of the COVID-19 pandemic, the latest version of *CAVA360VR* was used in a virtual research workshop (MOBSIN 10: *Advanced European Workshop on Mobilities and Social Interaction*) to live stream a 45-minute data session between five remote participants (working from home in Ghana, Aalborg and Oulu), who were collaborating on the same video data as described above.
+The live stream was relayed via *Blackboard Connect* to 30 viewers around Europe.
+Due to the limitations of *Blackboard Connect*, these viewers could not hear or interact with anyone else using *CAVA360VR* except the streamer.
 
 In November 2020, fourteen researchers divided equally between Aalborg and a city in another country, used *CAVA360VR* in a mixed VR/non-VR/streaming arrangement to conduct three enhanced data sessions over the course of a day's workshop.
 Because of the COVID-19 pandemic, most participants were isolated in different locations in the two countries.
@@ -363,7 +369,8 @@ Thus, users can return to any prior version, discarding changes made after that 
 Centralised systems were common in the early days of software development, but they restrict users to make changes to a file one-at-a-time, and there are locking mechanisms to enforce this rule.[^transana-mu]
 More recent distributed systems allow users to edit files offline at the same time, but they require methodical ways to merge the changed files together later.
 The predominant distributed version control system is *Git*, but for a non-technical user it is difficult to use, even with a graphical user interface, especially if something goes wrong (e.g. human error).
-In the *BigSoftVideo* team at Aalborg University, *Git* and *GitHub* have been used to manage software development for the tools described above. Local researchers have also explored version control of transcripts (for example, in a live data session).
+In the *BigSoftVideo* team at Aalborg University, *Git* and *GitHub* have been used to manage software development for the tools described above.
+Local researchers have also explored version control of transcripts (for example, in a live data session).
 Experiments have been conducted using friendlier graphical user interfaces, such as *GitKraken*, to track all changes to a transcript when working collaboratively to transcribe video data.[^Crowd]
 
 #### Live editing of a common transcript
@@ -408,7 +415,7 @@ I suggest that the features that are desirable to include for a live enhanced da
 
 6. Control over what is versioned, notes on the change(s) made and when they were versioned (see Figure {@fig:image8}).
 
-7. Revert to earlier versions. Undo changes.
+7. Revert to earlier versions and undo changes.
 
 8. Branching of independent versions of the same transcript text, so individuals can develop their own private comments and changes, which can be shared later, for example, in the data session round.
 
@@ -443,21 +450,21 @@ Notwithstanding the genesis of these niche tools, the enhanced data session comp
 
 ![New workflows that impact the data session - DOI:[10.6084/m9.figshare.12689729](https://doi.org/10.6084/m9.figshare.12689729).](images/image9.png){#fig:image9}
 
-Of course, given the nature of these technology and software solutions, the risk of alienation and failure is always present, not only for those new to qualitative analysis of audio-visual data (e.g. EMCA) and inexperienced in the conduct of data sessions, but also those averse with good reason to the encroachment of ‘black-box’ complex technology.
-Using a standard video player on a laptop and a standard LCD monitor, with the technology of pen and paper for the transcript and notes, does the job for legacy video data and has stood the test of time.
+Of course, given the nature of these technology and software solutions, the risk of alienation and failure is always present, not only for those new to qualitative analysis of audio-visual data (e.g. EMCA) and inexperienced in the conduct of data sessions, but also those averse with good reason to the encroachment of ‘black-box’ technology.
+Using a standard video player on a laptop connected to a standard LCD monitor, with the technology of pen and paper for editing the transcript and writing notes, does the job for legacy video data and has stood the test of time.
 Notwithstanding these legitimate concerns, future developments of the enhanced data session include:
 
-- Supporting the full functionality of *AVA360VR* in multi-user *CAVA360VR*.
+- Supporting the full functionality of *AVA360VR* in a multi-user *CAVA360VR* version.
 
 - Supporting different modes of viewing the video data, the transcript and the commentary/discussion in a data session, both when co-present *and* remote, e.g. differential and interactive access via tablet, smartphone, as well as augmented reality (AR).
 
 - Live streaming data sessions in different modes.
 
-- Testing enhanced distributed data sessions for different use cases.
+- Testing enhanced distributed data sessions in different use cases.
 
-- Remote live conference participation using multi-user VR to collaboratively inhabit and present complex video data while the local audience view and interact on traditional presentation screens.
+- Remote live conference participation using multi-user VR to collaboratively inhabit and present complex video data while the local audience view and interact using traditional presentation screens.
 
-- Granular capture and replay of all aspects of a live enhanced data session as an (open) interactive notebook.[^GitHub]
+- Granular capture and replay of all aspects of a live enhanced data session as a type of (open) 'interactive notebook'.[^GitHub]
 
 <!-- ENDNOTES follow 
 Endnote references can be coded with any alias "[^name]".
@@ -465,25 +472,29 @@ References can appear anywhere in the document though care is needed with line b
 References will be numbered when compiled.
 -->
 
-[^360]: This article does not elaborate on the strengths and weaknesses of using 360-degree video and spatial audio for qualitative video analysis. This is undertaken elsewhere [@mcilvenny2019; @mcilvenny2020].
+[^360]: This article does not elaborate on the strengths and weaknesses of using 360-degree video and spatial audio for qualitative video analysis.
+This is undertaken elsewhere [@mcilvenny2019; @mcilvenny2020].
 
-[^opendata]: The open scholarship movement encourages researchers to share open data and open notebooks/labs [@raffaghelli2019]. Taking this perspective to understanding the data session as a methodological practice, it can be seen as an early example in the social sciences of more openness towards sharing data-in-progress and working up observations into analyses collaboratively within the constraints of ethical consent and anonymisation. Moreover, it has had significant methodological implications beyond simply being 'open'.
+[^opendata]: The open scholarship movement encourages researchers to share open data and open notebooks/labs [@raffaghelli2019].
+Taking this perspective to understanding the data session as a methodological practice, it can be seen as an early example in the social sciences of more *openness* towards sharing data-in-progress and working up observations into analyses collaboratively within the constraints of ethical consent and anonymisation.
+Moreover, it has had significant methodological implications beyond simply being 'open'.
 
 [^datasessionURL]: [www.bigvideo.aau.dk/Enhanced+Data+Sessions/](https://www.bigvideo.aau.dk/Enhanced+Data+Sessions/)
 
 [^predatasession]: *Pre*-data sessions are also conducted locally.
-These are similar to data sessions, but the data holder presents recently collected raw data fragments which are unfiltered and/or have not been transcribed. 
-This makes them ineligible for a full-blown focused data session. 
-The goal is to facilitate fresh perspectives on how to begin to pursue an analysis of the unstructured data that is shown in its raw form.
+These are similar to data sessions, but the data holder presents recently collected raw data fragments which are unfiltered and/or have not been transcribed.
+This sort of data is ineligible for inclusion in a full-blown, focused data session.
+The goal of a pre-data session is to facilitate fresh perspectives on how to begin to pursue an analysis of the unstructured data that is shown in its raw form.
 
-[^videoplayback]: The lack of interest in the video playback and screen technologies used in the recorded data sessions could be because there was no screen capture recording. 
+[^videoplayback]: The lack of interest in the video playback and screen technologies used in the recorded data sessions could be because there was no screen capture recording.
 For example, @tutt2011 [: 223] note that “time references cannot be accurately determined on this occasion due to the playback being operated (stopped and started, etc.) at the whim of the data session participants.”
 
 [^clan]: [dali.talkbank.org/clan](http://dali.talkbank.org/clan/)
 
 [^transana]: [www.transana.com](http://www.transana.com)
 
-[^RDS]: Remote data sessions (RDS) using online collaborative environments with video conferencing tools, such as *Skype*, *Zoom*, *Blackboard Connect*, *BigMarker*, *ClickMeeting*, etc. have become more common during the COVID-19 pandemic in 2020. Some guidance can be found at [conversationanalysis.org/remote-data-sessions-report/](https://www.conversationanalysis.org/remote-data-sessions-report/) and [rolsi.net/2018/04/23/guest-blog-doing-a-data-session-remotely/](https://rolsi.net/2018/04/23/guest-blog-doing-a-data-session-remotely/).
+[^RDS]: Remote data sessions (RDS) using online collaborative environments with video conferencing tools, such as *Skype*, *Zoom*, *Blackboard Connect*, *BigMarker*, *ClickMeeting*, etc. have become more common during the COVID-19 pandemic in 2020.
+Some guidance can be found at [conversationanalysis.org/remote-data-sessions-report/](https://www.conversationanalysis.org/remote-data-sessions-report/) and [rolsi.net/2018/04/23/guest-blog-doing-a-data-session-remotely/](https://rolsi.net/2018/04/23/guest-blog-doing-a-data-session-remotely/).
 
 [^OWL]: [www.owllabs.com/meeting-owl](http://www.owllabs.com/meeting-owl)
 
@@ -493,39 +504,43 @@ Since headphones are used, for outsiders it appears that the dancers are moving 
 [^Stereo]: For example, a stereo track could be allotted for each recorded stereo microphone.
 One could also create a stereo track from two monophonic lavaliere microphones, balanced with one on the left channel (heard in the left ear) and one on the right (heard in the right ear) of the stereo track.
 
-[^AVA]: *AVA360VR* is currently in beta-testing.
-A public release of the software is expected in late 2020 ([www.github.com/BigSoftVideo](https://www.github.com/BigSoftVideo)).
+[^AVA]: *AVA360VR* is currently in late beta-testing.
+A public release of the software is expected in mid-2021 ([www.github.com/BigSoftVideo](https://www.github.com/BigSoftVideo)).
 
-[^SQUIVE]: *SQUIVE* was developed by Paul McIlvenny. 
+[^SQUIVE]: *SQUIVE* was developed by Paul McIlvenny.
 A 2D video clip illustrating the use of *SQUIVE* to conduct a tour of a complex data site, with a running audio commentary, is archived at DOI:[10.5281/zenodo.3954026](https://doi.org/10.5281/zenodo.3954026).
 
-[^CAVA]: Because of the requirements of the specific networking service, *CAVA360VR* is only available in the near future for enhanced data sessions and collaborative video analysis that are supported by the BigSoftVideo team.
+[^CAVA]: Because of the requirements of the specific multiplayer networking service, the current implementation of *CAVA360VR* is only available in the near future for enhanced data sessions and collaborative video analysis that are supported by the BigSoftVideo team.
 
-[^Ethics]: There are ethical concerns when sensitive video data is stored (unencrypted) on a central server or the cloud, and then is streamed live to local users.
+[^Ethics]: There are ethical concerns when sensitive video data is stored (unencrypted) on a central server or the cloud, which is then streamed live to local users.
 
 [^Lego]: The Lego data corpus includes recordings made using multiple 360-degree cameras, 2D video cameras, wireless microphones and spatial audio microphones.
 Only the footage from one 360-degree camera and one 2D camera were used in the live data session.
-The Lego data corpus, assembled as a project for *AVA360VR*, will be archived openly under a Creative Commons license at a later date.
+The Lego data corpus, assembled as a project for *AVA360VR*, will be archived openly under a Creative Commons license in mid-2021.
+A basic archive of this data corpus is already available and documented here: [10.5278/ojs.quivirr.v1.2020.a0003](https://doi.org/10.5278/ojs.quivirr.v1.2020.a0003).
 
-[^ZenodoURL]: A composite 2D video clip of the live data session is available on an unlisted YouTube channel: [youtu.be/LbESseSp62E](https://youtu.be/LbESseSp62E). It is also archived at DOI:[10.5281/zenodo.3955727](https://doi.org/10.5281/zenodo.3955727).
+[^ZenodoURL]: A composite 2D video clip of the live data session is available on an unlisted YouTube channel: [youtu.be/LbESseSp62E](https://youtu.be/LbESseSp62E).
+It is also archived at DOI:[10.5281/zenodo.3955727](https://doi.org/10.5281/zenodo.3955727).
 
 [^Sync]: Given the small but divergent temporal latencies for each client receiving data over the network from other clients, it is not possible in principle to make one perfect synchronised version of the event.
-When combining and syncing the video and audio recorded at each location into one video, a decision has to be made which location will serve as the master timecode to which the other videos/locations (and their video and audio tracks) will attempt to synchronise.
-In this case, priority is given to M’s location and the syncing of the visual video tracks.
+Therefore, when combining and syncing the video and audio recorded at each location into one video, a decision has to be made which location will serve as the master timecode to which the other videos/locations (and their video and audio tracks) will attempt to synchronise.
+In this case, priority is given to M’s location and to the syncing of the visual video (not audio) tracks.
 
-[^Consent]: The Lego video data was provided by the data-holder, and the participants in that data had given their consent for the video recordings to be distributed freely (under a CC BY-NC-SA 4.0 International license).
+[^Consent]: The Lego video data was provided by the data-holder, and the participants in that data had given their consent for the video recordings to be distributed freely (under a *CC BY-NC-SA 4.0* International license).
 Additionally, the three analysts have given their consent for the *CAVA360VR* avatar video recordings to be accessed online (under the same license).
 
 [^nonVRmode]: In the latest version of *CAVA360VR*, the non-VR mode allows the user to do everything that the VR mode permits, including recamming, but not to create drawings.
 
-[^transana-mu]: The *Transana* CAQDAS software package sells a multi-user version that allows users to access a single database on a cloud server on which a transcript and its metadata is stored. To cope with conflicts caused by simultaneous access it locks data records (eg. a transcript) to one user at a time. Moreover, as with the single user version, there is neither centralised nor distributed version control of changes made by users ([www.transana.com/tutorial/mu-start/](https://www.transana.com/tutorial/mu-start/)).
+[^transana-mu]: There is a multi-user version of the commercial *Transana* CAQDAS software package that allows users to access a single database on a cloud server on which a transcript and its metadata are stored.
+To cope with conflicts caused by simultaneous access it locks data records (eg. a transcript) to one user at a time.
+Moreover, as with the single user version, *neither* centralised *nor* distributed version control of changes made by users is supported ([www.transana.com/tutorial/mu-start/](https://www.transana.com/tutorial/mu-start/)).
 
 [^openplus]: Versioning scholarship in general is a key element of the open social science and humanities movement [@arbuckle2019].
 
 [^Crowd]: This opens up the possibility for crowdsourcing transcription work.
 
 [^DOTE]: *DOTE* is currently in development and early beta-testing.
-It supports dual backup and restore at two levels of granularity, with auto-saving and a 'checkpoint' system based on Git.
+Among other features, it supports dual backup and restore systems at two levels of granularity, with auto-saving and a user-defined 'checkpoint' system based on Git.
 
 [^GitHub]: If a reader has any thoughts or ideas for new features or tools, then they can be freely added to our public workspace on GitHub: [github.com/BigSoftVideo/Big-Video-Tools-Features](https://github.com/BigSoftVideo/Big-Video-Tools-Features)
 

@@ -10,7 +10,6 @@ bardzell
 beamer
 BigMarker
 BigSoftVideo
-binaural
 Browsable
 CAQDAS
 CAVA
@@ -25,7 +24,7 @@ eg
 else’s
 EMCA
 equirectangular
-ethnomethodological
+Ethnomethodological
 freeform
 GitKraken
 Haagh
@@ -58,18 +57,16 @@ organized
 Oulu
 Pandoc
 playhead
-Pre
+pre
 presentational
 proto
 prototyped
 raudaskoski
-RDS
 recammed
 recamming
 recognize
 repurpose
-repurposed
-repurposing
+Repurposing
 saveable
 schegloff
 schnettler
@@ -84,7 +81,7 @@ Tanderup
 telepresence
 timecode
 topicalise
-TRANSANA
+Transana
 tutt
 UHD
 unencrypted
